@@ -87,6 +87,97 @@
       "id": "1673811987676",
       "_id": "1673811987676",
       "file": "1673811987676"
+    },
+    {
+      "dni": "q343",
+      "firstName": "sdf",
+      "lastName": "sdf",
+      "address": "sdfsf",
+      "name": "sdf sdf",
+      "id": "1673823282005",
+      "_id": "1673823282005",
+      "file": "1673823282005"
     }
-  ]
+  ],
+  "files": [
+    {
+      "name": "Felipe Roque",
+      "status": "decided",
+      "reviewCase": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "reviewDecision": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "decision": "123456",
+      "decisionDate": "15/01/2023",
+      "no": "1673797475714",
+      "id": "1673797475714",
+      "_id": "1673797475714"
+    },
+    {
+      "name": "Felipe Roque",
+      "status": "decided",
+      "reviewCase": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "reviewDecision": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "decision": "123456",
+      "decisionDate": "15/01/2023",
+      "no": "1673797475714",
+      "id": "1673797475714",
+      "_id": "1673797475714"
+    },
+    {
+      "name": "Felipe Roque",
+      "status": "decided",
+      "reviewCase": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "reviewDecision": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "decision": "123456",
+      "decisionDate": "15/01/2023",
+      "no": "1673797475714",
+      "id": "1673797475714",
+      "_id": "1673797475714"
+    },
+    {
+      "name": "Felipe Roque",
+      "status": "decided",
+      "reviewCase": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "reviewDecision": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "decision": "123456",
+      "decisionDate": "15/01/2023",
+      "no": "1673797475714",
+      "id": "1673797475714",
+      "_id": "1673797475714"
+    },
+    {
+      "name": "Felipe Roque",
+      "status": "decided",
+      "reviewCase": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "reviewDecision": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "decision": "123456",
+      "decisionDate": "15/01/2023",
+      "no": "1673797475714",
+      "id": "1673797475714",
+      "_id": "1673797475714"
+    },
+    {
+      "name": "Felipe Roque",
+      "status": "decided",
+      "reviewCase": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "reviewDecision": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "decision": "123456",
+      "decisionDate": "15/01/2023",
+      "no": "1673797475714",
+      "id": "1673797475714",
+      "_id": "1673797475714"
+    },
+    {
+      "name": "Felipe Roque",
+      "status": "decided",
+      "reviewCase": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "reviewDecision": "Officia debitis, tempore viverra maiores officia occaecati, repellat nullam metus.",
+      "decision": "123456",
+      "decisionDate": "15/01/2023",
+      "no": "1673797475714",
+      "id": "1673797475714",
+      "_id": "1673797475714"
+    }
+  ],
+  "legislation": []
 }
+
