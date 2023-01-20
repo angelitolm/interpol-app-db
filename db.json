@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "_id": "123",
+      "email": "angelitolabm@gmail.com",
+      "password": "admin",
+      "firstName": "Angel",
+      "lastName": "Labrada",
+      "role": [
+        "ADMIN"
+      ],
+      "permissions": [
+        "ALL"
+      ]
+    },
+    {
+      "_id": "456",
+      "email": "leandro@gmail.com",
+      "password": "admin",
+      "firstName": "Leandro",
+      "lastName": "de la Paz",
+      "role": [
+        "DIRECTOR"
+      ],
+      "permissions": []
+    },
+    {
+      "_id": "789",
+      "email": "alejandro@gmail.com",
+      "password": "admin",
+      "firstName": "Alejandro",
+      "lastName": "Valdes",
+      "role": [
+        "OFFICIAL"
+      ],
+      "permissions": []
+    },
+    {
+      "_id": "987",
+      "email": "mairim@gmail.com",
+      "password": "admin",
+      "firstName": "Angel",
+      "lastName": "Labrada",
+      "role": [
+        "OFFICE_WORKER"
+      ],
+      "permissions": []
+    }
+  ],
+  "identifications": [
+    {
+      "_id": "123",
+      "id": "123",
+      "name": "Carlos Mesa",
+      "firstName": "Carlos",
+      "lastName": "Mesa",
+      "file": "1673797475714",
+      "dni": "89061265854",
+      "address": "23 y M"
+    },
+    {
+      "_id": "456",
+      "id": "456",
+      "name": "Pedro Fonseca",
+      "firstName": "Pedro",
+      "lastName": "Fonseca",
+      "file": "1673797493247",
+      "dni": "89061265854",
+      "address": "Calle 2, Miramar"
+    },
+    {
+      "_id": "789",
+      "id": "789",
+      "name": "Juan Banegas",
+      "firstName": "Juan",
+      "lastName": "Banegas",
+      "file": "1673797538670",
+      "dni": "89061265854",
+      "address": "San Francisco y Blanco"
+    },
+    {
+      "dni": "26515065",
+      "firstName": "Leandro",
+      "lastName": "El Atormentado",
+      "address": "La revolcadera",
+      "name": "Leandro El Atormentado",
+      "id": "1673811987676",
+      "_id": "1673811987676",
+      "file": "1673811987676"
+    }
+  ]
+}
